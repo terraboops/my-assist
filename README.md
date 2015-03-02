@@ -1,7 +1,7 @@
-caver-assist
+my-assist
 ============
 
-A program to help lost cavers find an exit
+A program to help lost ______ find an exit
 
 To execute: php src/main.php
 
